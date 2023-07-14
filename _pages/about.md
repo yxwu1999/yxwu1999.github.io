@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/image_to_text.png){: .align-right width='300px'}
+![Illustration of combining vision and language modalities](/images/image_to_text.png){: .align-right height='300px'}
+
 👨‍🎓 I'm **Yuanxi Wu (吴元熙)**, a final year graduate student at [Southeast University](https://www.seu.edu.cn/english/main.htm).
 
 📚 I'm currently working towards my Master's degree in the field of Electrical Engineering.
@@ -23,7 +24,6 @@ Education
 
 Activities
 ======
-
 🏝️ Social Activities
 ------
 - Volunteer in local communities to help elders learn smartphone skills
