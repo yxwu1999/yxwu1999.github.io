@@ -11,7 +11,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](/images/image_to_text.png){: .align-right width='300px'}
 👨‍🎓 I'm **Yuanxi Wu (吴元熙)**, a final year graduate student at [Southeast University](https://www.seu.edu.cn/english/main.htm).
 
-:books: I'm currently working towards my Master's degree in the field of Electrical Engineering.
+📚 I'm currently working towards my Master's degree in the field of Electrical Engineering.
 
 📡 I'm looking for a Ph.D. position in fall, 2024 in multi-agent system (MAS).
 
@@ -23,9 +23,10 @@ Education
 
 Activities
 ======
+
 🏝️ Social Activities
 ------
-- Volunteer in local communities to help seniors learn smartphone skills
+- Volunteer in local communities to help elders learn smartphone skills
 - Member of graduate students union in Southeast University
 - Member of students union in Hohai University
 - Member of Red Cross Youth Club in Hohai University
