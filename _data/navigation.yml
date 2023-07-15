@@ -15,8 +15,11 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
+
+  - title: "Hobbies"
+    url: /hobby/    
 
   - title: "Miscellaneous"
     url: /misc/    
