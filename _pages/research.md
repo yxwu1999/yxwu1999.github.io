@@ -119,9 +119,9 @@ As the team leader, I have taken responsibility for the entire project, includin
 
 <center>
 <img src="../images/platform.png" 
-width = "30%">
+width = "20%">
 <img src="../images/spectrogram.png" 
-width = "60%">
+width = "80%">
 <br>
     <div style = "
         color: orange;
