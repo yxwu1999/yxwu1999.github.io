@@ -12,7 +12,7 @@ redirect_from:
 
 👨‍🎓 I'm **Yuanxi Wu (吴元熙)**, a final year graduate student at [Southeast University](https://www.seu.edu.cn/english/main.htm).
 
-📚 I'm currently working towards my Master's degree in the field of Electrical Engineering.
+📚 I'm currently working towards my Master's thesis in the field of uncertainty quantification.
 
 📡 I'm looking for a Ph.D. position in fall, 2024 in multi-agent system (MAS).
 <br/>
