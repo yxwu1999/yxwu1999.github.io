@@ -15,6 +15,8 @@ author_profile: true
 7. Social Service Scholarship, Hohai University, 06/2021 & 06/2020
 8. Technology and Innovation Scholarship, Hohai University, 06/2021 & 06/2020 
 
+---
+
 # Competition Awards 
 1. 1st Prize in the final of Chinese Mathematics Competitions for College Students (**Top 0.05%**), Chinese Mathematical Society, 03/2019
 2. 3rd Prize in the 18th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, 12/2021
@@ -22,6 +24,8 @@ author_profile: true
 4. 2nd Prize in the Advanced Mathematics COmpetition of Jiangsu Province, Association for Mathematics Education in High Schools in Jiangsu Province, 07/2018
 5. 3rd Prize in the 13th Certificate Authority Cup Mathematical Contest in Modeling, Inner Mongolia Mathematical Society, 05/2020
 6. 2nd Prize in the 6th LSCAT Cup Translation Competition, Translation Association of China, 06/2020
+
+---
 
 # Honors
 1. Outstanding Graduates of Jiangsu Province (**Top 0.2%**), Jiangsu Education Department, 06/2021
