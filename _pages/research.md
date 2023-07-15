@@ -73,7 +73,7 @@ width = "46.5%">
 
 Supervisors: [Prof. Wei Gu](https://ee.seu.edu.cn/2021/0331/c25364a366894/page.htm), [Assoc. Prof. Zhi Wu](http://www.wuzhiseu.com/)
 
-Research Output: [J1](https://yxwu1999.github.io/publications#J1) & [C1]((https://yxwu1999.github.io/publications#C1)) & [M2]((https://yxwu1999.github.io/publications#M2))
+Research Output: [J1](https://yxwu1999.github.io/publications#J1) & [C1](https://yxwu1999.github.io/publications#C1) & [M2](https://yxwu1999.github.io/publications#M2)
 
 Sep. 2021 -- Aug. 2022, Southeast University
 
