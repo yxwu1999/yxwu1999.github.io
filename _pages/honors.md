@@ -30,3 +30,5 @@ author_profile: true
 4. Excellent Student Cadre, Hohai University, 06/2021 & 11/2020
 5. Outstanding Student Model, Hohai University, 11/2020
 6. Excellent Student, Hohai University, 06/2021 & 11/2020
+7. Outstanding Individual of Graduate Students' Union, Southeast University, 07/2022
+8. Advanced Individual in Academic Achievement, Hohai University, 05/2021
