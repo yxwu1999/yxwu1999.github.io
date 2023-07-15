@@ -23,7 +23,7 @@ author_profile: true
 
 ### Journal Article
 
-[J1] Z. Wu, **Y. Wu**, W. Gu, Z. Xu, S. Zheng, J. Zhao, "Mechanism Design of Ancillary Service Market Considering Social Welfare and Fairness", in *CSEE Journal of Power and Energy Systems*. (**JCR Q1**; **Main Contributor**; Accepted in May 2022)<h2 id="J1" style="display:none;"> </h2>
+[J1] Z. Wu, **Y. Wu**, W. Gu, Z. Xu, S. Zheng, J. Zhao, "Mechanism Design of Ancillary Service Market Considering Social Welfare and Fairness", in *CSEE Journal of Power and Energy Systems*. (**JCR Q1**; **Main Contributor**; Accepted in May 2022)<span id="J1"></span>
 
 [J2] H. Ma, **Y. Wu**, W. Lao, Q. Zheng, C. Wang, ["Identification of Overcharge Characteristics of Energy Storage Batteries Based on MRSVD and Time-Frequency Grayscale Image"](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXovU16gzjO4fHAh6fDxnebR-ZYdyZaeSQquEp-HbI-XB6&uniplatform=NZKPT), in *Chinese Journal of Power Sources*, vol. 44, no. 9, pp.1351-1355, 2020. (**Main Contributor; Chinese Core Journal**)<h2 id="J2" style="display:none;"> </h2>
 
