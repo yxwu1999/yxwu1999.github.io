@@ -25,12 +25,9 @@ The second work, currently in preparation, relies on a novel deterministic sampl
 
 <center>
 <img src="../images/APCE.png" 
-width = "46.5%">
-·
-·
-·
+width = "40%">
 <img src="../images/vsi.png" 
-width = "46.5%">
+width = "40%">
 <br>
     <div style = "
         color: orange;
@@ -89,12 +86,9 @@ With the increasing integration of user-end distributed energy resources into th
 
 <center>
 <img src="../images/benders.png" 
-width = "46.5%">
-·
-·
-·
+width = "40%">
 <img src="../images/joint_framework.png" 
-width = "46.5%">
+width = "40%">
 <br>
     <div style = "
         color: orange;
@@ -125,12 +119,9 @@ As the team leader, I have taken responsibility for the entire project, includin
 
 <center>
 <img src="../images/platform.png" 
-width = "46.5%">
-·
-·
-·
+width = "40%">
 <img src="../images/spectrogram.png" 
-width = "46.5%">
+width = "40%">
 <br>
     <div style = "
         color: orange;
