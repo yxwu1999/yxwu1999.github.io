@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Honors & Awards (In Order of Importance)"
+title: "🏆 Selected Honors & Awards (In Order of Importance)"
 permalink: /honors/
 author_profile: true
 ---
