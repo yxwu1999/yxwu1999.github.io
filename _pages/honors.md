@@ -4,6 +4,9 @@ title: "🏆 Selected Honors & Awards (In Order of Importance)"
 permalink: /honors/
 author_profile: true
 ---
+- [Scholarships](#scholarships)
+- [Competition Awards](#competition-awards)
+- [Honors](#honors)
 
 # Scholarships
 1. China National Scholarship, Ministry of Education of China, 12/2019
