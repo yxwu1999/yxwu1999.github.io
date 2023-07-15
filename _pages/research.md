@@ -24,11 +24,13 @@ In my research of uncertainty in power systems, I mainly focus on efficient high
 The second work, currently in preparation, relies on a novel deterministic sampling method that requires significantly less computational effort than the Monte Carlo method. This appealing property makes it quite suitable to be combined with the distributionally robust method to deal with chance constraints.
 
 <center>
-<img src="../images/APCE.png" />
+<img src="../images/APCE.png" 
+width = "46.5%">
 ·
 ·
 ·
-<img src="../images/vsi.png" />
+<img src="../images/vsi.png" 
+width = "46.5%">
 <br>
     <div style = "
         color: orange;
@@ -86,11 +88,13 @@ With the increasing integration of user-end distributed energy resources into th
 
 
 <center>
-<img src="../images/benders.png" />
+<img src="../images/benders.png" 
+width = "46.5%">
 ·
 ·
 ·
-<img src="../images/joint_framework.png" />
+<img src="../images/joint_framework.png" 
+width = "46.5%">
 <br>
     <div style = "
         color: orange;
@@ -120,11 +124,13 @@ Lithium-ion battery systems have emerged as critical components in modern power 
 As the team leader, I have taken responsibility for the entire project, including formulating the experimental plan, procuring necessary equipment, setting up the experimental platform, conducting experiments, analyzing data, and writing the research paper. Our investigations have unveiled substantial differences in vibration signals exhibited by batteries under various operating conditions. Consequently, our findings supported the feasibility of implementing a strategy for anomaly detection in batteries based on vibration signals.
 
 <center>
-<img src="../images/platform.png" />
+<img src="../images/platform.png" 
+width = "46.5%">
 ·
 ·
 ·
-<img src="../images/spectrogram.png" />
+<img src="../images/spectrogram.png" 
+width = "46.5%">
 <br>
     <div style = "
         color: orange;
