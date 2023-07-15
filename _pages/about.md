@@ -34,6 +34,7 @@ redirect_from:
 ## 🏝️ Social Activities
 
 - Volunteer in local communities to help elders learn smartphone skills
+- Member of Student Leadership Development Program, Hohai University
 - Member of Graduate Students' Union in Southeast University
 - Member of Students' Union in Hohai University
 - Member of Red Cross Youth Club in Hohai University
