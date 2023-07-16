@@ -4,6 +4,9 @@ title: "💾 Miscellaneous"
 permalink: /misc/
 author_profile: true
 ---
+- [Workshops](#workshops)
+- [Album](#album)
+- [In the News](#in-the-news)
 
 ## Workshops
 
@@ -27,6 +30,8 @@ width = "40%">
     <p> </p>
 </center>
 
+---
+
 ## Album
 
 Selected photos of some activities can be found below:
@@ -37,6 +42,8 @@ Selected photos of some activities can be found below:
 - [Final of the mathematics competition](https://yxwu1999.github.io/album/award)
 - [Graduation from Hohai University](https://yxwu1999.github.io/album/graduation)
 - [Social practice in Anhui Province](https://yxwu1999.github.io/album/anhui)
+  
+---
 
 ## In the News
 
