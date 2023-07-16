@@ -5,6 +5,28 @@ permalink: /misc/
 author_profile: true
 ---
 
+## Workshops
+
+In July 2023, I have been admitted to the [Jiangsu Postgraduate Summer School on Intelligent Decision-Making and Algorithms](https://sme.nju.edu.cn/ab/51/c2039a633681/page.htm), hosted by Nanjing University. Over the course of several decades, five renowned scholars have introduced us to cutting-edge research and methods in related fields. I successfully completed all courses and obtained a certificate of completion.
+
+<center>
+<img src="/images/sme.png"
+width = "40%">
+
+<img src="/images/close.png"
+width = "40%">
+<br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        left: Opening ceremony; right: Speaking as a student representative at closing ceremony
+    </div>
+    <p> </p>
+</center>
+
 ## Album
 
 Selected photos of some activities can be found below:
@@ -20,8 +42,9 @@ Selected photos of some activities can be found below:
 
 I am very honored and fortunate to have received the following interviews and reports:
 
+- ["Charming Graduates in Hohai University."](https://mp.weixin.qq.com/s/M_6TWHNhrfICjcZQIUP1TA), Department of Student Affairs, Hohai University
+- ["Model Student in Hohai University."](https://mp.weixin.qq.com/s/3PoMpaN8GFCgBZk9iG7Jjg), Department of Student Affairs, Hohai University
+- ["Outstanding Student Wu Yuanxi Shares His Experience"](https://mp.weixin.qq.com/s/BSRHwPdMoaTImX6xckgVQw), Hohai University
+- ["Interview: Talented Hohai University Student Wins First Prize in National Math Competition!"](https://mp.weixin.qq.com/s/D7w-FWfcEhcQhvw9HGi1vg), Youth in Hohai, Hohai University
 
 
-## Workshops
-
-In July 2023, I have been [admitted](https://sme.nju.edu.cn/9c/dd/c2040a629981/page.htm) to the Jiangsu Postgraduate Summer School on Intelligent Decision-Making and Algorithms, hosted by Nanjing University. 
