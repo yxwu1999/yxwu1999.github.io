@@ -12,7 +12,7 @@ Selected photos of some activities can be found below:
 - [My stage performance](https://yxwu1999.github.io/album/perform)
 - [Volunteer in local communities](https://yxwu1999.github.io/album/volunteer)
 - [Visit program in Singapore](https://yxwu1999.github.io/album/singapore)
-- [Final of the mathematics competitions](https://yxwu1999.github.io/album/award)
+- [Final of the mathematics competition](https://yxwu1999.github.io/album/award)
 - [Graduation from Hohai University](https://yxwu1999.github.io/album/graduation)
 - [Social practice in Anhui Province](https://yxwu1999.github.io/album/anhui)
 
