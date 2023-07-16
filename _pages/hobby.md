@@ -4,15 +4,43 @@ title: "✨ Hobbies"
 permalink: /hobby/
 author_profile: true
 ---
+- [Teaching](#teaching)
+- [LEGO Bricks](#lego-bricks)
+- [Sports](#sports)
+- [Instrument](#instrument)
+- [Travel](#travel)
 
-## Teaching
+## Teaching 
+I really enjoy the accomplishment of imparting my knowledge to others. Teaching, to me, is about fostering a sense of collaboration and inspiration. Through the sharing of my own learning experiences and methods, I strive to offer valuable advice and guidance to fellow students, enabling them to conquer their academic challenges. My goal is to empower them and help them overcome obstacles in their academic journey.
+
+<center>
+<img src="../images/teaching.png">
+</center>
 
 ## LEGO Bricks
+In my leisure time, I have developed a fondness for building with LEGO bricks. The process of constructing and the subsequent sense of fulfillment truly resonate with me. Engaging in this process not only enhances my manual dexterity but also allows me to immerse myself fully in the task at hand, providing a much-needed sense of relaxation. It is a passion that merges creativity, hands-on skills, and personal satisfaction into one harmonious endeavor.
+
+<center>
+<img src="../images/lego.png">
+</center>
 
 ## Sports
+Personally, I am deeply passionate about a range of activities including hiking, long-distance running, badminton, and swimming. The invigorating feeling of breaking a sweat is something I truly relish. Engaging in physical activities not only helps me alleviate stress but also rejuvenates my mind, body, and soul.
+
+<center>
+<img src="../images/run.png">
+</center>
 
 ## Instrument
+I've been playing the bamboo flute since the fourth grade of elementary school. I enjoy playing Chinese classical music as well as some well-known pop songs. I thoroughly enjoy immersing myself in the artistic realm of the music I play, allowing me to fully experience the emotions and atmosphere created by each piece.
+
+<center>
+<img src="../images/flute.png">
+</center>
 
 ## Travel
-
-
+There must be something truly magical about traveling, which allows me to immerse myself in diverse cultures. I have had the opportunity to explore captivating destinations such as Yunnan, Guizhou, Anhui, and Singapore. This upcoming summer, I am excitedly planning a visit to Macau to further enrich my travel experiences.
+<div class="second">
+<img src="/images/singapore.png">
+<img src="/images/guizhou.png">
+</div>
