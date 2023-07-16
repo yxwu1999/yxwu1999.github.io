@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ":heart: Volunteer in local communities"
+title: "💧 Volunteer in local communities"
 permalink: /album/volunteer/
 author_profile: true
 ---

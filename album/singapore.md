@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ":flag_singapore: Visit program in Singapore"
+title: "🌏 Visit program in Singapore"
 permalink: /album/singapore/
 author_profile: true
 ---
