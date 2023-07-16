@@ -46,3 +46,4 @@ redirect_from:
 - Attendee of iSPEC 2021, Nanjing, China
 - Student volunteer of Young Elite Scientists Salon of China Association for Science and Technology
 - Student volunteer of CIEEC 2022, Nanjing, China
+- Volunteer of the 30th Anniversary Conference of the Electrical Engineering, Hohai University
