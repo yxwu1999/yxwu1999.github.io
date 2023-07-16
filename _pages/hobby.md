@@ -82,19 +82,10 @@ width = "40%">
 
 ## Travel
 There must be something truly magical about traveling, which allows me to immerse myself in diverse cultures. I have had the opportunity to explore captivating destinations such as Yunnan, Guizhou, Anhui, and Singapore. This upcoming summer, I am excitedly planning a visit to Macau to further enrich my travel experiences.
-<div class="second">
+<center>
 <img src="/images/singapore.png"
 width = "40%">
-<br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Singapore Universal studios
-    </div>
-    <p> </p>
+
 <img src="/images/guizhou.png"
 width = "40%">
 <br>
@@ -104,7 +95,7 @@ width = "40%">
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Huangguoshu Waterfall
+        left: Singapore Universal Studios; right: Huangguoshu Waterfall
     </div>
     <p> </p>
-</div>
+</center>
