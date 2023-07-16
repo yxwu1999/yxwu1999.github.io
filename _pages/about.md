@@ -23,8 +23,7 @@ redirect_from:
 # Education
 
 - 09/2021 -- 06/2024: M.Sc. in Electrical Engineering, School of Electrical Engineering, Southeast University (Average score: 94.53/100; Ranking: 1/157) 
-- 07/2023 -- 07/2023: Student of Jiangsu Postgraduate Summer School on Decision-Making and Algorithm, Nanjing University 
-- 09/2017 -- 06/2021: B.Sc. in Electrical Engineering and Automation, College of Energy and Electrical Engineering, Hohai University (Average score: 93.24/100; Ranking: 3/216)
+- 09/2017 -- 06/2021: B.Sc. in Electrical Engineering and Automation, College of Energy and Electrical Engineering, [Hohai University](https://en.hhu.edu.cn/) (Average score: 93.24/100; Ranking: 3/216)
 <br/>
 <br/>
 
