@@ -28,7 +28,7 @@ I really enjoy the accomplishment of imparting my knowledge to others. Teaching,
 </center>
 
 ## LEGO Bricks
-In my leisure time, I have developed a fondness for building with LEGO bricks. The process of constructing and the subsequent sense of fulfillment truly resonate with me. Engaging in this process not only enhances my manual dexterity but also allows me to immerse myself fully in the task at hand, providing a much-needed sense of relaxation. It is a passion that merges creativity, hands-on skills, and personal satisfaction into one harmonious endeavor.
+In my free time, I also indulge in the art of building with LEGO bricks. I thoroughly enjoy both the process of creating and the sense of accomplishment upon completing a project. Engaging in such activities not only enhances my manual dexterity but also allows me to completely immerse myself in the creative process, thus providing a means of relaxation.
 
 <center>
 <img src="../images/lego.png">
