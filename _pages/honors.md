@@ -34,7 +34,7 @@ author_profile: true
 1. Outstanding Graduates of Jiangsu Province (**Top 0.2%**), Jiangsu Education Department, 06/2021
 2. Merit Graduate Student, Southeast University, 10/2022
 3. Top 100 Outstanding Students, Hohai University, 06/2020
-4. Excellent Student Cadre, Hohai University, 06/2021 & 11/2020
+4. Outstanding Student Leader, Hohai University, 06/2021 & 11/2020
 5. Outstanding Student Model, Hohai University, 11/2020
 6. Excellent Student, Hohai University, 06/2021 & 11/2020
 7. Outstanding Individual of Graduate Students' Union, Southeast University, 07/2022
