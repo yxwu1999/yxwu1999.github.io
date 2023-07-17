@@ -20,7 +20,7 @@ width = "40%">
         display: inline-block;
         color: #999;
         padding: 2px;">
-        left: Photo with Merlion; right: Famous building The Hive in NTU
+        left: Group project in NUS; right: Famous building The Hive in NTU
     </div>
     <p> </p>
 </center>
