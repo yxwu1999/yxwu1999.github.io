@@ -30,6 +30,14 @@ redirect_from:
 ---
 
 # Activities
+## 📜 Academic Activities
+
+- Reviewer of *IET Generation, Transmission & Distribution*
+- Attendee of iSPEC 2021, Nanjing, China
+- Student volunteer of Young Elite Scientists Salon of China Association for Science and Technology
+- Student volunteer of CIEEC 2022, Nanjing, China
+- Volunteer of the 30th Anniversary Conference of the Electrical Engineering, Hohai University
+  
 ## 🏝️ Social Activities
 
 - Volunteer in local communities to help elders learn smartphone skills
@@ -39,10 +47,3 @@ redirect_from:
 - Member of Red Cross Youth Club in Hohai University
 - Class president in Hohai University 
 
-## 📜 Academic Activities
-
-- Reviewer of *IET Generation, Transmission & Distribution*
-- Attendee of iSPEC 2021, Nanjing, China
-- Student volunteer of Young Elite Scientists Salon of China Association for Science and Technology
-- Student volunteer of CIEEC 2022, Nanjing, China
-- Volunteer of the 30th Anniversary Conference of the Electrical Engineering, Hohai University
