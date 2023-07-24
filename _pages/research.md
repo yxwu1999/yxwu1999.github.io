@@ -46,7 +46,7 @@ width = "40%">
 
 *Core Team Member, Science and Technology Project of China Southern Power Grid Co., Ltd.*
 
-April 2021 -- June 2023, Yunnan Electric Power Research Institute
+April 2022 -- June 2023, Yunnan Electric Power Research Institute
 
 The GMS countries, comprising China, Cambodia, Laos, Myanmar, Thailand, and Vietnam, have recognized regional power trading as a critical area for development. However, till now, numerous barriers still hinder a greater uptake of regional power trading. This project aimed to highlight the barriers, assess the trading potential in the GMS, and design future trading mechanisms and a roadmap to increase regional power trade. 
 
