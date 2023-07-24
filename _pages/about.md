@@ -12,9 +12,9 @@ redirect_from:
 
 👨‍🎓 I'm **Yuanxi Wu (吴元熙)**, a final year graduate student at [Southeast University](https://www.seu.edu.cn/english/main.htm).
 
-📚 I'm currently working towards my Master's thesis in the field of stochastic optimal power flow control.
+📚 I'm currently working towards my Master's thesis in the field of uncertainty quantification.
 
-📡 I'm looking for a Ph.D. position in fall, 2024 in multi-agent system (MAS).
+📡 I'm looking for a full-funded Ph.D. position in fall, 2024.
 <br/>
 <br/>
 
@@ -22,8 +22,8 @@ redirect_from:
 
 # Education
 
-- 09/2021 -- 06/2024: M.Sc. in Electrical Engineering, School of Electrical Engineering, Southeast University (Average score: 94.53/100; Ranking: 1/157) 
-- 09/2017 -- 06/2021: B.Sc. in Electrical Engineering and Automation, College of Energy and Electrical Engineering, [Hohai University](https://en.hhu.edu.cn/) (Average score: 93.24/100; Ranking: 3/216)
+- 09/2021 -- 06/2024: M.Sc. in Electrical Engineering, School of Electrical Engineering, Southeast University (Average score: 94.53/100; ****Ranking: 1/157****) 
+- 09/2017 -- 06/2021: B.Sc. in Electrical Engineering and Automation, College of Energy and Electrical Engineering, [Hohai University](https://en.hhu.edu.cn/) (Average score: 93.24/100; ****Ranking: 3/216****)
 <br/>
 <br/>
 
