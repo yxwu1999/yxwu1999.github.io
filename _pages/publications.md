@@ -31,7 +31,7 @@ author_profile: true
 
 ### Conference Paper
 
-[C1] S. Zhao, Z. Wu, J. Wang, S. Zheng, J. Zhao, **Y. Wu**, ["A Multi-Regional Coordinated Peer-to-Peer Energy Trading Market Mechanism in Distribution Networks"](https://ieeexplore.ieee.org/document/9735624/authors#authors), *2021 IEEE Sustainable Power and Energy Conference (iSPEC)*, Nanjing, China, 2021, pp. 1991-1996, doi: 10.1109/iSPEC53008.2021.9735624.<span id="C1"></span>
+[C1] S. Zhao, Z. Wu, J. Wang, S. Zheng, J. Zhao, **Y. Wu**, ["A Multi-Regional Coordinated Peer-to-Peer Energy Trading Market Mechanism in Distribution Networks"](https://ieeexplore.ieee.org/document/9735624), *2021 IEEE Sustainable Power and Energy Conference (iSPEC)*, Nanjing, China, 2021, pp. 1991-1996, doi: 10.1109/iSPEC53008.2021.9735624.<span id="C1"></span>
 
 ---
 
