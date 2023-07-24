@@ -10,7 +10,7 @@ author_profile: true
 
 ## Workshops
 
-In July 2023, I have been admitted to the [Jiangsu Postgraduate Summer School on Intelligent Decision-Making and Algorithms](https://sme.nju.edu.cn/ab/51/c2039a633681/page.htm), hosted by Nanjing University. Throughout the program, we were introduced to groundbreaking research and methodologies in the field by five distinguished scholars with decades of expertise. I successfully completed all courses and obtained a certificate of completion.
+In July 2023, I have been admitted to the [Jiangsu Postgraduate Summer School on Intelligent Decision-Making and Algorithms](https://sme.nju.edu.cn/ab/51/c2039a633681/page.htm), hosted by [Nanjing University](https://www.nju.edu.cn/en/). Throughout the program, we were introduced to state-of-the-art research and methodologies in the field of operation research by five distinguished scholars. I successfully completed all courses and obtained a certificate of completion.
 
 <center>
 <img src="/images/sme.png"
