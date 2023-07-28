@@ -14,7 +14,7 @@ redirect_from:
 
 📚 I'm currently working towards my Master's thesis in the field of uncertainty quantification.
 
-📡 I'm looking for a full-funded Ph.D. position in fall, 2024.
+📡 I'm looking for a Ph.D. position starting in fall, 2024.
 <br/>
 <br/>
 
