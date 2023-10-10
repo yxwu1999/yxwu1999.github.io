@@ -37,7 +37,7 @@ author_profile: true
 
 ## Manuscripts
 
-[M1] **Y. Wu**, Z. Wu, Y. Xu, H. Long, W. Gu, S. Zheng, J. Tao, ["Computationally Enhanced Approach for Chance-Constrained OPF Considering Voltage Stability"](https://arxiv.org/abs/2306.14527), *Submitted to IEEE Transactions on Power Systems, Manuscript ID: TPWRS-01071-2023*, PDF available on [*arXiv*](https://arxiv.org/pdf/2306.14527.pdf).<span id="M1"></span>
+[M1] **Y. Wu**, Z. Wu, Y. Xu, H. Long, W. Gu, S. Zheng, J. Tao, ["Computationally Enhanced Approach for Chance-Constrained OPF Considering Voltage Stability"](https://arxiv.org/abs/2306.14527), *IEEE Transactions on Power Systems, Manuscript ID: TPWRS-01071-2023*, *Revise and Resubmit*, PDF available on [*arXiv*](https://arxiv.org/pdf/2306.14527.pdf).<span id="M1"></span>
 
 [M2] **Y. Wu**, Z. Wu, W. Gu, Z. Xu, S. Zheng, Q. Sun, ["Decentralized Energy Market Integrating Carbon Allowance Trade and Uncertainty Balance in Energy Communities"](https://arxiv.org/abs/2301.12129), *Submitted to IET Renewable Power Generation, Manuscript ID: RPG-2023-06-0453*, PDF available on [*arXiv*](https://arxiv.org/pdf/2301.12129.pdf).<span id="M2"></span>
 
