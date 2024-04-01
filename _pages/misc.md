@@ -6,7 +6,6 @@ author_profile: true
 ---
 - [Workshops](#workshops)
 - [Album](#album)
-- [In the News](#in-the-news)
 
 ## Workshops
 
@@ -43,7 +42,7 @@ Selected photos of some activities can be found below:
 - [Graduation from Hohai University](https://yxwu1999.github.io/album/graduation)
 - [Social practice in Anhui Province](https://yxwu1999.github.io/album/anhui)
   
----
+<!-- ---
 
 ## In the News
 
@@ -52,6 +51,6 @@ I am very honored and fortunate to have received the following interviews and re
 - ["Charming Graduates in Hohai University."](https://mp.weixin.qq.com/s/M_6TWHNhrfICjcZQIUP1TA), Department of Student Affairs, Hohai University
 - ["Model Student in Hohai University."](https://mp.weixin.qq.com/s/3PoMpaN8GFCgBZk9iG7Jjg), Department of Student Affairs, Hohai University
 - ["Outstanding Student Wu Yuanxi Shares His Experience"](https://mp.weixin.qq.com/s/BSRHwPdMoaTImX6xckgVQw), Hohai University
-- ["Interview: Talented Hohai University Student Wins First Prize in National Math Competition!"](https://mp.weixin.qq.com/s/D7w-FWfcEhcQhvw9HGi1vg), Youth in Hohai, Hohai University
+- ["Interview: Talented Hohai University Student Wins First Prize in National Math Competition!"](https://mp.weixin.qq.com/s/D7w-FWfcEhcQhvw9HGi1vg), Youth in Hohai, Hohai University -->
 
 
