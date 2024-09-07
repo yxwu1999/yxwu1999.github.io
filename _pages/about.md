@@ -10,11 +10,12 @@ redirect_from:
 
 ![Illustration of combining vision and language modalities](/images/image_to_text.png){: .align-right width='300px'}
 
-👨‍🎓 I'm **Yuanxi Wu (吴元熙)**, a final year graduate student at [Southeast University](https://www.seu.edu.cn/english/main.htm).
+👨‍🎓 I'm **Yuanxi Wu (吴元熙)**, an electrical engineer at State Grid Nanjing Power Supply Company.
+<!--a final year graduate student at [Southeast University](https://www.seu.edu.cn/english/main.htm).-->
 
-📚 I'm currently working towards my Master's thesis in the field of uncertainty quantification.
+📚 I obtained my B.S. degree and MS degree from Hohai University and Southeast University. <!--I'm currently working towards my Master's thesis in the field of uncertainty quantification.-->
 
-📡 I'm looking for a Ph.D. position starting in fall, 2024.
+📡 I'm looking for a Ph.D. position starting in spring/fall, 2025.
 <br/>
 <br/>
 
