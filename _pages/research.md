@@ -6,7 +6,7 @@ author_profile: true
 ---
 - [1. Algorithm for Stochastic OPF Facing High Renewable Penetration](#1-algorithm-for-stochastic-opf-facing-high-renewable-penetration)
 - [2. Mechanism Design and Assessment of Power Trade in the Greater Mekong Subregion (GMS) Countries](#2-mechanism-design-and-assessment-of-power-trade-in-the-greater-mekong-subregion-gms-countries)
-- [3. Decentralized Implementation of Energy Markets and Mechanism Design](#3-decentralized-implementation-of-energy-markets-and-mechanism-design)
+- [3. Decentralized Implementation of Energy Markets and Mechanism Design](#3-decentralized-energy-market-design-and-implementation)
 - [4. Detection of Abnormal Working Conditions of Energy Storage Batteries](#4-detection-of-abnormal-working-conditions-of-energy-storage-batteries)
 
 ## 1. Algorithm for Stochastic OPF Facing High Renewable Penetration
@@ -69,11 +69,11 @@ width = "46.5%">
 
 ---
 
-## 3. Decentralized Implementation of Energy Markets and Mechanism Design
+## 3. Decentralized Energy Market Design and Implementation
 
 Supervisors: [Prof. Wei Gu](https://ee.seu.edu.cn/2021/0331/c25364a366894/page.htm), [Assoc. Prof. Zhi Wu](http://www.wuzhiseu.com/)
 
-Research Output: [J1](https://yxwu1999.github.io/publications#J1) & [C1](https://yxwu1999.github.io/publications#C1) & [M2](https://yxwu1999.github.io/publications#M2)
+Research Output: [J2](https://yxwu1999.github.io/publications#J2) & [J3](https://yxwu1999.github.io/publications#J3) & [C1](https://yxwu1999.github.io/publications#C1) 
 
 Sep. 2021 -- Aug. 2022, Southeast University
 
@@ -109,7 +109,7 @@ width = "40%">
 
 Supervisor: [Prof. Hongzhong Ma](http://jszy.hhu.edu.cn/mhz/)
 
-Research Output: [J2](https://yxwu1999.github.io/publications#J2) & [J3](https://yxwu1999.github.io/publications#J3)
+Research Output: [J4](https://yxwu1999.github.io/publications#J4) & [J5](https://yxwu1999.github.io/publications#J5)
 
 July 2019 -- May 2020, Hohai University
 
