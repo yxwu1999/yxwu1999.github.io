@@ -9,7 +9,7 @@ author_profile: true
 - [Honors](#honors)
 
 # Scholarships
-1. China National Scholarship, Ministry of Education of China, 12/2019
+1. China National Scholarship (**Top 0.2%**), Ministry of Education of China, 12/2019
 2. Yan Kai Scholarship, Yan Kai Education Technology Foundation, 10/2020
 3. Wang Yanqing Scholarship, Southeast University Education Foundation, 05/2023
 4. 1st Prize Scholarship, Southeast University, 10/2022
@@ -32,6 +32,7 @@ author_profile: true
 
 # Honors
 1. Outstanding Graduates of Jiangsu Province (**Top 0.2%**), Jiangsu Education Department, 06/2021
+2. Outstanding Postgraduate, Southeast University, 06/2024
 2. Merit Graduate Student, Southeast University, 10/2022
 3. Top 100 Outstanding Students, Hohai University, 06/2020
 4. Outstanding Student Leader, Hohai University, 06/2021 & 11/2020

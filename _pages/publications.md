@@ -23,11 +23,15 @@ author_profile: true
 
 ### Journal Article
 
-[J1] Z. Wu, **Y. Wu**, W. Gu, Z. Xu, S. Zheng, J. Zhao, "Mechanism Design of Ancillary Service Market Considering Social Welfare and Fairness", in *CSEE Journal of Power and Energy Systems*. (**JCR Q1**; **Main Contributor**; Accepted in May 2022)<span id="J1"></span>
+[J1] **Y. Wu**, Z. Wu, Y. Xu, H. Long, W. Gu, S. Zheng, J. Tao, ["Computationally Enhanced Approach for Chance-Constrained OPF Considering Voltage Stability"](https://ieeexplore.ieee.org/document/10477450), in *IEEE Transactions on Power Systems*, Early Access.<span id="J1"></span>
 
-[J2] H. Ma, **Y. Wu**, W. Lao, Q. Zheng, C. Wang, ["Identification of Overcharge Characteristics of Energy Storage Batteries Based on MRSVD and Time-Frequency Grayscale Image"](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXovU16gzjO4fHAh6fDxnebR-ZYdyZaeSQquEp-HbI-XB6&uniplatform=NZKPT), in *Chinese Journal of Power Sources*, vol. 44, no. 9, pp.1351-1355, 2020. (**Main Contributor; Chinese Core Journal**)<span id="J2"></span>
+[J2] **Y. Wu**, G. Pan, Z. Wu, W. Gu, Z. Xu, B. Yuan, S. Zheng, Q. Sun, ["Decentralized Energy Market Integrating Carbon Allowance Trade and Uncertainty Balance in Energy Communities"](https://www.sciencedirect.com/science/article/abs/pii/S2352467724001826), in *Sustainable Energy, Grids and Networks*, vol. 39, 101453, 2024.<span id="J2"></span>
 
-[J3] X. Peng, H. Ma, H. Xu, C. Li, **Y. Wu**, K. Qian, ["A Novel Method of Early Warning for Abnormal Working Conditions of Energy Storage Batteries Based on Vibration"](https://kns.cnki.net/kcms2/article/abstract?v=Zx5UZ-cNHTg8HH2Nklh3-MLBGpQP8PLXt0WWCbwkOa1WE08u9sDqa7HVjN72LSs4kChjdr80tPJ4m-USI_WUqesM_w4Y7nlzt4S4SjlgZc-U4AcT9JO-E77C5W7V4NZ0XwrebE7jf_tn2SaqJnBKkA==&uniplatform=NZKPT&language=CHS&version=YSB), in *Electrical Measurement & Instrumentation*, vol. 60, no. 2, pp.167-171, 2023. (**Chinese Core Journal**)<span id="J3"></span>
+[J3] Z. Wu, **Y. Wu**, W. Gu, Z. Xu, S. Zheng, J. Zhao, ["Mechanism Design of Ancillary Service Market Considering Social Welfare and Fairness"](https://ieeexplore.ieee.org/document/10246136), in *CSEE Journal of Power and Energy Systems*, vol. 10, no.3, pp.1000-1010, 2024. (**Main Contributor**)<span id="J3"></span>
+
+[J4] H. Ma, **Y. Wu**, W. Lao, Q. Zheng, C. Wang, ["Identification of Overcharge Characteristics of Energy Storage Batteries Based on MRSVD and Time-Frequency Grayscale Image"](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXovU16gzjO4fHAh6fDxnebR-ZYdyZaeSQquEp-HbI-XB6&uniplatform=NZKPT), in *Chinese Journal of Power Sources*, vol. 44, no. 9, pp.1351-1355, 2020. (**Main Contributor; Chinese Core Journal**)<span id="J4"></span>
+
+[J5] X. Peng, H. Ma, H. Xu, C. Li, **Y. Wu**, K. Qian, ["A Novel Method of Early Warning for Abnormal Working Conditions of Energy Storage Batteries Based on Vibration"](https://kns.cnki.net/kcms2/article/abstract?v=Zx5UZ-cNHTg8HH2Nklh3-MLBGpQP8PLXt0WWCbwkOa1WE08u9sDqa7HVjN72LSs4kChjdr80tPJ4m-USI_WUqesM_w4Y7nlzt4S4SjlgZc-U4AcT9JO-E77C5W7V4NZ0XwrebE7jf_tn2SaqJnBKkA==&uniplatform=NZKPT&language=CHS&version=YSB), in *Electrical Measurement & Instrumentation*, vol. 60, no. 2, pp.167-171, 2023. (**Chinese Core Journal**)<span id="J5"></span>
 
 ### Conference Paper
 
@@ -37,8 +41,4 @@ author_profile: true
 
 ## Manuscripts
 
-[M1] **Y. Wu**, Z. Wu, Y. Xu, H. Long, W. Gu, S. Zheng, J. Tao, ["Computationally Enhanced Approach for Chance-Constrained OPF Considering Voltage Stability"](https://arxiv.org/abs/2306.14527), *IEEE Transactions on Power Systems, Manuscript ID: TPWRS-01071-2023*, *Revise and Resubmit*, PDF available on [*arXiv*](https://arxiv.org/pdf/2306.14527.pdf).<span id="M1"></span>
-
-[M2] **Y. Wu**, Z. Wu, W. Gu, Z. Xu, S. Zheng, Q. Sun, ["Decentralized Energy Market Integrating Carbon Allowance Trade and Uncertainty Balance in Energy Communities"](https://arxiv.org/abs/2301.12129), *Submitted to IET Renewable Power Generation, Manuscript ID: RPG-2023-06-0453*, PDF available on [*arXiv*](https://arxiv.org/pdf/2301.12129.pdf).<span id="M2"></span>
-
-[M3] **Y. Wu**, *et al.*, "Chance-Constrained AC Optimal Power Flow Considering High Penetration Renewables: A Data-Driven Approach", *In Preparation*.<span id="M3"></span>
+[M1] **Y. Wu**, *et al.*, "Chance-Constrained AC Optimal Power Flow Considering High Penetration Renewables: A Data-Driven Approach", *In Preparation*.<span id="M1"></span>
